@@ -333,7 +333,7 @@ public class Settings {
             }
         }
         catch (Exception e) {
-            return SUPERUSER_ACCESS_APPS_AND_ADB;
+            return SUPERUSER_ACCESS_DISABLED;
         }
     }
 
